@@ -2,6 +2,7 @@
 ACS Computer Science Club
 
 Architecture:
+
 Frontend (User Side)
 
 Platform: Web app (React / Vue) or Mobile app (React Native / Flutter)
